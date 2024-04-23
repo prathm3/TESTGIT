@@ -1,1 +1,7 @@
 New commit 1
+
+
+Already pushed 1
+
+
+Not pushed only committed 1
