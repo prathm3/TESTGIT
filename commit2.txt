@@ -3,3 +3,6 @@ new commit 2
 ALready pushed 2
 
 not pushed only commited 2
+
+
+commit 3
